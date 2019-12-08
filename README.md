@@ -98,7 +98,7 @@ class MyActionListener2 implements ActionListener{
 
 
 ## 实验效果
-![image](https://github.com/lkt968574/LKT/blob/master/1.jpg)
+![image](https://github.com/lkt968574/-/blob/master/123.png)
 
 ## 实验心得
 通过这次字符串实验，我对本学期的Java知识总结性的学习了一下，
